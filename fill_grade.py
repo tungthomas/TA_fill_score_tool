@@ -9,7 +9,7 @@ import numpy as np
 
 
 
-name = "./2024-01-09T1736_認識星空 (PHYS1016).xlsx"
+name = "./test.xlsx"
 score_title = "期末考"
 mode = "calculate"     # "fill_in",  "calculate"
 
